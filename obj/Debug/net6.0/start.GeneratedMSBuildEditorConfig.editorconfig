@@ -8,41 +8,61 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = start
 build_property.RootNamespace = start
-build_property.ProjectDir = C:\Users\mazlu\.net\start\
+build_property.ProjectDir = C:\Users\mazlu\.net\toDo\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
-build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\mazlu\.net\start
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = C:\Users\mazlu\.net\toDo
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/mazlu/.net/start/Views/Home/Index.cshtml]
+[C:/Users/mazlu/.net/toDo/Views/Authentication/Authenticate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cQXV0aGVudGljYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mazlu/.net/toDo/Views/Authentication/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mazlu/.net/toDo/Views/Authentication/Secret.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cU2VjcmV0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mazlu/.net/toDo/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mazlu/.net/start/Views/Home/Privacy.cshtml]
+[C:/Users/mazlu/.net/toDo/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mazlu/.net/start/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+[C:/Users/mazlu/.net/toDo/Views/MyTask/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXlUYXNrXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mazlu/.net/start/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/mazlu/.net/toDo/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mazlu/.net/start/Views/User/Index.cshtml]
+[C:/Users/mazlu/.net/toDo/Views/User/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mazlu/.net/start/Views/_ViewImports.cshtml]
+[C:/Users/mazlu/.net/toDo/Views/User/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mazlu/.net/toDo/Views/User/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mazlu/.net/toDo/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mazlu/.net/start/Views/_ViewStart.cshtml]
+[C:/Users/mazlu/.net/toDo/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mazlu/.net/start/Views/Shared/_Layout.cshtml]
+[C:/Users/mazlu/.net/toDo/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-jrzu2s2ykh

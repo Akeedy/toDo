@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\mazlu\\.net\\start\\start.csproj",
+  "FilePath": "c:\\Users\\mazlu\\.net\\toDo\\start.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "6.0",
@@ -16298,43 +16298,68 @@
   "RootNamespace": "start",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\mazlu\\.net\\start\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\mazlu\\.net\\start\\Views\\_ViewStart.cshtml",
+      "FilePath": "c:\\Users\\mazlu\\.net\\toDo\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\mazlu\\.net\\start\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\mazlu\\.net\\start\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "c:\\Users\\mazlu\\.net\\toDo\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\mazlu\\.net\\start\\Views\\Shared\\Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FilePath": "c:\\Users\\mazlu\\.net\\toDo\\Views\\Authentication\\Secret.cshtml",
+      "TargetPath": "Views\\Authentication\\Secret.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\mazlu\\.net\\start\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FilePath": "c:\\Users\\mazlu\\.net\\toDo\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\mazlu\\.net\\start\\Views\\Shared\\_Layout.cshtml",
+      "FilePath": "c:\\Users\\mazlu\\.net\\toDo\\Views\\User\\Login.cshtml",
+      "TargetPath": "Views\\User\\Login.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\mazlu\\.net\\toDo\\Views\\Authentication\\Authenticate.cshtml",
+      "TargetPath": "Views\\Authentication\\Authenticate.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\mazlu\\.net\\toDo\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\mazlu\\.net\\start\\Views\\User\\Index.cshtml",
+      "FilePath": "c:\\Users\\mazlu\\.net\\toDo\\Views\\MyTask\\Index.cshtml",
+      "TargetPath": "Views\\MyTask\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\mazlu\\.net\\toDo\\Views\\User\\Register.cshtml",
+      "TargetPath": "Views\\User\\Register.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\mazlu\\.net\\toDo\\Views\\User\\Index.cshtml",
       "TargetPath": "Views\\User\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\mazlu\\.net\\toDo\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\mazlu\\.net\\toDo\\Views\\Authentication\\Index.cshtml",
+      "TargetPath": "Views\\Authentication\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\mazlu\\.net\\toDo\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
     }
   ],

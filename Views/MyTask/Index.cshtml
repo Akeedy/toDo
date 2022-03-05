@@ -1,0 +1,48 @@
+﻿@model EntityLayer.MyTask
+@{
+    ViewData["Title"] = "Task Page";
+}
+
+<div class="container">
+
+    <div class="row justify-content-center">
+        <div class="col-5">
+            <form method="post" action="/Mytask/Index">
+                <div asp-validation-summary="ModelOnly"></div>
+
+                <div class="form-group row mt-2">
+                    <div>
+                        <div class="row">
+                            <label class="col-3 col-form-label" for="" asp-for="@Model.TaskName">Task:</label>
+                            <div class="col-9">
+                                <input class="form-control" type="text" asp-for="@Model.TaskName" id=""
+                                    aria-describedby="emailHelp" placeholder="Task">
+                            </div>
+                        </div>
+                    </div>
+                    <span class="col-2" asp-validation-for="@Model.TaskName"></span>
+                </div>
+
+                <div class="form-group row mt-2">
+                    <div>
+                        <div class="row">
+                            <label class="col col-form-label text-danger" for="" asp-for="@Model.DeadLine">Dead
+                                Line</label>
+                            <div class="col-9">
+                                <input class="form-control" type="text" onfocus="(this.type='date')"
+                                    asp-for="@Model.DeadLine" id="" aria-describedby="emailHelp"
+                                    placeholder="12.12.2012">
+                            </div>
+                        </div>
+                    </div>
+                    <span class="col-2" asp-validation-for="@Model.DeadLine"></span>
+                </div>
+
+
+                <div class="form-group mt-3 ">
+                    <input type="submit" class="btn btn-dark form-control" value="Add Task">
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

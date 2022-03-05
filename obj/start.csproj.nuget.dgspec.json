@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mazlu\\.net\\start\\start.csproj": {}
+    "C:\\Users\\mazlu\\.net\\toDo\\start.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mazlu\\.net\\start\\start.csproj": {
+    "C:\\Users\\mazlu\\.net\\toDo\\start.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mazlu\\.net\\start\\start.csproj",
+        "projectUniqueName": "C:\\Users\\mazlu\\.net\\toDo\\start.csproj",
         "projectName": "start",
-        "projectPath": "C:\\Users\\mazlu\\.net\\start\\start.csproj",
+        "projectPath": "C:\\Users\\mazlu\\.net\\toDo\\start.csproj",
         "packagesPath": "C:\\Users\\mazlu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mazlu\\.net\\start\\obj\\",
+        "outputPath": "C:\\Users\\mazlu\\.net\\toDo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mazlu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[6.0.0, )"
